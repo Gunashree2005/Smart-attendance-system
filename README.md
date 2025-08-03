@@ -1,12 +1,13 @@
 # Face Recognition Based Attendance System
+
+Gunashree.R  1RVUBSC032 
 Rohan.B  1RVU22BSC082
-Gunashree.R  1RVUBSC032
 
 This project is a face recognition-based attendance system that uses OpenCV and Python. The system uses a camera to capture images of individuals and then compares them with the images in the database to mark attendance.
 
 ## Installation
 
-1. Clone the repository to your local machine. ``` git clone https://github.com/Arijit1080/Face-Recognition-Based-Attendance-System ```
+1. Clone the repository to your local machine. ``` git clone https://github.com/Gunashree2005/Smart-attendance-system ```
 2. Install the required packages using ```pip install -r requirements.txt```.
 3. Download the dlib models from https://drive.google.com/drive/folders/12It2jeNQOxwStBxtagL1vvIJokoz-DL4?usp=sharing and place the data folder inside the repo
 
